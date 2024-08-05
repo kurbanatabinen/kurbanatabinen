@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**kurbanatabinen/kurbanatabinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a full stack developer specializing in Laravel, Nova, Filament, and React Native Expo.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 💻 **Languages**: PHP, JavaScript, HTML, CSS
+- 🧰 **Frameworks**: Laravel, React Native
+- ⚙️ **Tools**: Nova, Filament
+- 🗄️ **Databases**: MySQL, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kurban-atabinen-6704191ba/)
+- [Twitter](https://x.com/kurbanatabinen)
+- [GitHub](https://github.com/kurbanatabinen)
+- [Pinkary](https://pinkary.com/@kurban)
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurbanatabinen&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurbanatabinen&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=kurbanatabinen&theme=onedark)

@@ -25,7 +25,7 @@ I'm a full stack developer who love crafting magic with Laravel ⚡ and React Na
 - [Pinkary](https://pinkary.com/@kurban)
 
 ## 💡 Fun Facts
-- 🎮 I love playing [PUBG](https://pubg.report/players/account.825fb9749508411b9db3a3f988f9d93d)
+- 🎮 I love playing PUBG⚔️ and FIFA⚽
 - 🏞️ Hiking and nature walks are my go-to stress busters.
 - 📚 I'm an avid reader of tech blogs and science fiction novels.
 

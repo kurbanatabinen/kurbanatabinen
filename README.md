@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kurban 👋
 
 ## 🚀 About Me
 I'm a full stack developer specializing in Laravel, Nova, Filament, and React Native Expo.
@@ -14,9 +14,6 @@ I'm a full stack developer specializing in Laravel, Nova, Filament, and React Na
 - [Twitter](https://x.com/kurbanatabinen)
 - [GitHub](https://github.com/kurbanatabinen)
 - [Pinkary](https://pinkary.com/@kurban)
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurbanatabinen&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurbanatabinen&layout=compact&theme=radical)

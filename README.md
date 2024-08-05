@@ -1,6 +1,5 @@
 # Hi, I'm Kurban 👋
 
-## 🚀 About Me
 I'm a full stack developer who love crafting magic with Laravel ⚡ and React Native 🚀
 
 ## 🛠 Tech Stack
